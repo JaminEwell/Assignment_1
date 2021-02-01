@@ -1,7 +1,3 @@
-
-
-
-
 const element = (
     <div title="Outer div">
       <h1>Jamin Ewell</h1>
@@ -15,9 +11,4 @@ const element = (
 );
   
 
-  
-  
-  
-  
-  ReactDOM.render(element, document.getElementById('contents'));
-  //ReactDOM.render(profile, document.getElementById('profileimage'));
+ReactDOM.render(element, document.getElementById('contents'));
