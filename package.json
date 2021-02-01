@@ -1,0 +1,25 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "assignment1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaminEwell/Assignment_1.git"
+  },
+  "author": "jamin ewell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaminEwell/Assignment_1/issues"
+  },
+  "homepage": "https://github.com/JaminEwell/Assignment_1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.10"
+  }
+}
